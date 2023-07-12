@@ -8,6 +8,6 @@ Neverwinter Nights 2 Lag Fix
 3. Run the included `vcredist_x86.exe` installer to install the *Microsoft Visual C++ 2015 x86 Redistributable*.If you have it
   installed then the installer will do nothing.
 
-4.Play the game.
+4. Play the game.
 
 #silentgamepls
